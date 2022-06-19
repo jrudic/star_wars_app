@@ -1,0 +1,155 @@
+{
+  "@@locale": "en",
+  "appName": "Star Wars Fan App",
+  "@appName": {
+    "description": "Name of application"
+  },
+  "nameText": "Name",
+  "@nameText": {
+    "description": ""
+  },
+  "titleText": "Title",
+  "@titleText": {
+    "description": ""
+  },
+  "releaseDateText": "Release date",
+  "@releaseDateText": {
+    "description": ""
+  },
+  "vehicleClassText": "Vehicle Class",
+  "@vehicleClassText": {
+    "description": ""
+  },
+  "mgltText": "MGLT",
+  "@mgltText": {
+    "description": ""
+  },
+  "starshipClassText": "Starship Class",
+  "@starshipClassText": {
+    "description": ""
+  },
+  "genderText": "Gender",
+  "@genderText": {
+    "description": ""
+  },
+  "languageText": "Language",
+  "@languageText": {
+    "description": ""
+  },
+  "birthYearText": "Birth year",
+  "@birthYearText": {
+    "description": ""
+  },
+  "climateText": "Climate",
+  "@climateText": {
+    "description": ""
+  },
+  "producerText": "Producer",
+  "@producerText": {
+    "description": ""
+  },
+  "episodeIdText": "Episode id",
+  "@episodeIdText": {
+    "description": ""
+  },
+  "openingCrawlText": "Opening Crawl",
+  "@openingCrawlText": {
+    "description": ""
+  },
+  "filmText": "Film",
+  "@filmText": {
+    "description": ""
+  },
+  "vehiclesText": "Vehicles",
+  "@vehiclesText": {
+    "description": ""
+  },
+  "starshipsText": "Starships",
+  "@starshipsText": {
+    "description": ""
+  },
+  "speciesText": "Species",
+  "@speciesText": {
+    "description": ""
+  },
+  "planetText": "Planet",
+  "@planetText": {
+    "description": ""
+  },
+  "peopleText": "People",
+  "@peopleText": {
+    "description": ""
+  },
+  "massText": "Mass",
+  "@massText": {
+    "description": ""
+  },
+  "heightText": "Height",
+  "@heightText": {
+    "description": ""
+  },
+  "gravityText": "Gravity",
+  "@gravityText": {
+    "description": ""
+  },
+  "diameterText": "Diameter",
+  "@diameterText": {
+    "description": ""
+  },
+  "orbitalPeriodText": "Orbital period",
+  "@orbitalPeriodText": {
+    "description": ""
+  },
+  "populationText": "Population",
+  "@populationText": {
+    "description": ""
+  },
+  "surfaceWaterText": "Surface water",
+  "@surfaceWaterText": {
+    "description": ""
+  },
+  "hairColorsText": "Hair colors",
+  "@hairColorsText": {
+    "description": ""
+  },
+  "skinColorsText": "Skin colors",
+  "@skinColorsText": {
+    "description": ""
+  },
+  "eyeColorsText": "Eye colors",
+  "@eyeColorsText": {
+    "description": ""
+  },
+  "maxAtmospheringSpeedText": "Max Atmosphering Speed",
+  "@maxAtmospheringSpeedText": {
+    "description": ""
+  },
+  "manufacturerText": "Manufacturer",
+  "@manufacturerText": {
+    "description": ""
+  },
+  "lengthText": "Length",
+  "@lengthText": {
+    "description": ""
+  },
+  "crewText": "Crew",
+  "@crewText": {
+    "description": ""
+  },
+  "passengersText": "Passengers",
+  "@passengersText": {
+    "description": ""
+  },
+  "consumablesText": "Consumables",
+  "@consumablesText": {
+    "description": ""
+  },
+  "hyperdriveRratingText": "Hyperdrive rating",
+  "@hyperdriveRratingText": {
+    "description": ""
+  },
+  "modelText": "Model",
+  "@modelText": {
+    "description": ""
+  }
+}
